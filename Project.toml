@@ -1,0 +1,11 @@
+name = "Nameless"
+uuid = "209e85b8-f46a-11e8-1741-b1e42413bdbe"
+authors = ["김용희 <yongheekim@devsisters.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+XLSXasJSON = "8c9e00cc-ccf1-11e8-3de6-5b028f480d9e"
