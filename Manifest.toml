@@ -27,10 +27,9 @@ version = "1.4.0"
 
 [[DataFrames]]
 deps = ["CategoricalArrays", "CodecZlib", "Compat", "DataStreams", "Dates", "InteractiveUtils", "IteratorInterfaceExtensions", "LinearAlgebra", "Missings", "Printf", "Random", "Reexport", "SortingAlgorithms", "Statistics", "StatsBase", "TableTraits", "Tables", "Test", "TranscodingStreams", "Unicode", "WeakRefStrings"]
-git-tree-sha1 = "ad34fefb72b18a8dd5c17fab9089d11111b61935"
-pinned = true
+git-tree-sha1 = "60c2820c9ae93cc33e98cd820e0b449d551c7874"
 uuid = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-version = "0.14.1"
+version = "0.15.1"
 
 [[DataStreams]]
 deps = ["Dates", "Missings", "Test", "WeakRefStrings"]
@@ -186,9 +185,9 @@ version = "0.4.0"
 
 [[Tables]]
 deps = ["Requires", "Test"]
-git-tree-sha1 = "c7fb447deab835fa70ce6717e78c68b0f466a42c"
+git-tree-sha1 = "940944e6b68a35046282897a2218891c7cf14a32"
 uuid = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
-version = "0.1.11"
+version = "0.1.12"
 
 [[Test]]
 deps = ["Distributed", "InteractiveUtils", "Logging", "Random"]
@@ -215,13 +214,13 @@ version = "0.5.3"
 
 [[XLSX]]
 deps = ["Dates", "EzXML", "Printf", "Test", "ZipFile"]
-git-tree-sha1 = "8171f9406fca73631b766cc0d4b1e17e5b3bf801"
+git-tree-sha1 = "fe6aea3a0f1a29f02998b7aee757efb78ec5a7db"
 uuid = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
-version = "0.4.3"
+version = "0.4.4"
 
 [[XLSXasJSON]]
 deps = ["DataFrames", "DataStructures", "JSON", "Printf", "XLSX"]
-git-tree-sha1 = "acb6be22a23daddbfd2014a98d648153c3c5a95b"
+git-tree-sha1 = "974221571e5eb867cc322bfa7e357c0eae417cde"
 repo-rev = "master"
 repo-url = "https://github.com/devsisters/XLSXasJSON.jl"
 uuid = "8c9e00cc-ccf1-11e8-3de6-5b028f480d9e"
