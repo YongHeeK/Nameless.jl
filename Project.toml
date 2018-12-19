@@ -1,7 +1,7 @@
 name = "Nameless"
 uuid = "209e85b8-f46a-11e8-1741-b1e42413bdbe"
 authors = ["김용희 <yongheekim@devsisters.com>"]
-version = "0.1.2"
+version = "0.1.3"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
