@@ -3,3 +3,4 @@ StatsBase
 DataFrames
 DataStructures
 XLSXasJSON
+Compat
