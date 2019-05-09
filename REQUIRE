@@ -1,5 +1,6 @@
 JSON
 StatsBase
+Distributions
 DataFrames
 DataStructures
 XLSXasJSON
