@@ -1,7 +1,7 @@
 name = "Nameless"
 uuid = "209e85b8-f46a-11e8-1741-b1e42413bdbe"
 authors = ["김용희 <yongheekim@devsisters.com>"]
-version = "0.2.2"
+version = "0.2.3"
 
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"

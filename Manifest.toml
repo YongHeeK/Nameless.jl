@@ -295,11 +295,11 @@ version = "0.5.4"
 
 [[XLSXasJSON]]
 deps = ["DataFrames", "DataStructures", "JSON", "Printf", "XLSX"]
-git-tree-sha1 = "c796453b813fa617c75f8a5410c04aee160bdfe0"
+git-tree-sha1 = "341d7a06ede7664003d76b8a61360212e0bd6286"
 repo-rev = "master"
 repo-url = "https://github.com/devsisters/XLSXasJSON.jl.git"
 uuid = "8c9e00cc-ccf1-11e8-3de6-5b028f480d9e"
-version = "0.3.1"
+version = "0.3.2"
 
 [[ZipFile]]
 deps = ["BinaryProvider", "Libdl", "Printf"]
